@@ -1,7 +1,4 @@
-
-// Name      : Belkız
-// Surname   : Özbek
-// Student ID: 20050111050
+//HW3
 class Node {
 
     private int data;
