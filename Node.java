@@ -1,16 +1,8 @@
-package doublylinkedlist;
-
+package singlylinkedlist;
 
 public class Node {
-    
+     
+    int data; //element
     Node next;
-    Node prev;
-    int data;
-
-    public Node(int data) {
-        this.data = data;
-        prev = null;
-        next = null;
-    }
     
 }
