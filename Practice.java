@@ -1,7 +1,7 @@
 package doublylinkedlist;
 
 
-public class Practis {
+public class Practice {
     
     public static void main(String[] args) {
         
